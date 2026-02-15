@@ -8,8 +8,8 @@ theme:
     logo: fontawesome/solid/database
   palette:
     scheme: slate
-    primary: indigo
-    accent: deep purple
+    primary: red
+    accent: red
   features:
     - content.code.copy
     - navigation.footer
