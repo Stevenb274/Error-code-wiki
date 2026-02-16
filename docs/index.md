@@ -12,7 +12,6 @@ hide:
 
 ## mrrrp
 
-
 <figure markdown="span">
   <img src="./assets/site_internal/davidbazooka.png" alt="Roblox image">
   <figcaption>"We need ERROR_CODE on Roblox" - David Bazooka</figcaption>
