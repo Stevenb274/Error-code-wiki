@@ -5,7 +5,7 @@ Welcome, this is the Error_code Wiki but as a bunch of css and markdown. This is
 ## Contributing to the Wiki
 
 ### Getting started
-In order to contribute, you need to have simple knownledge about markdown *(occassionally about mkdocs or css aswell, depending on what you want to add)* and you need to have a github account.
+In order to contribute, you need to have simple knownledge about markdown *(occassionally about mkdocs, css or html aswell, depending on what you want to add)* and you need to have a github account.
 <br>
 <br>
 If you do not directly have edit access to this source then you need to create a fork of this repository. Once you have created the fork, you may edit your own fork however you want and add/remove/change content to your liking.
