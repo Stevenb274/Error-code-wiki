@@ -1,9 +1,10 @@
 ---
 hide:
   - footer
+extra:
+  special_theme: true
 ---
 
-<meta name="special_theme" content="true">
 <a class="md-nav__link" href="/special-page/"></a>
 
 Aw hell naw WHAT HAVE YOU DONE!?

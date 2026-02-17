@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', function() {
-    this.alert("Alerta");
+
     const meta = document.querySelector('meta[name="page_locked"]');
     if (meta && meta.content === "true") {
         const message = document.createElement('div');
