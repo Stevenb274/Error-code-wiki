@@ -34,6 +34,7 @@ not_in_nav: | ## Pages that should be hidden
 extra_css:
   - stylesheets/extra.css
   - stylesheets/entitythemes.css
+  - stylesheets/admonitions.css
 
 extra_javascript:
   - page_js/page_lock.js
