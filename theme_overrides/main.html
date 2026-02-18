@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+
+  {% if page and page.meta and page.meta.extra and page.meta.extra.page_locked %}
+    <meta name="page_locked" content="true">
+  {% endif %}
+
+  {% if page and page.meta and page.meta.extra and page.meta.extra.hemorrhage_theme %}
+    <meta name="hemorrhage_theme" content="true">
+  {% endif %}
+
+{% endblock %}

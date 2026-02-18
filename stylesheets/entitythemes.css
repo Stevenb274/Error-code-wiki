@@ -1,0 +1,56 @@
+/* This css file is used to give entity pages custom themes. */
+
+/* Hemorrhage */
+
+/* Special page theme */
+body.hemorrhage-theme {
+    --md-hue:30;
+    --md-primary-fg-color: #a10000;   /* Mainly the topbar */
+    --md-accent-fg-color: #680000;    /* Accent color */
+    --md-footer-bg-color: #000;        /* Page footer */
+    --md-footer-bg-color--dark: #000; /* Page footer */
+    --md-default-bg-color: #1d0000;    /* Page background - usually really bright */
+    color: #d64f4f;                   /* Default text */
+}
+
+/* Page h1 */
+body.hemorrhage-theme h1 {
+    color: #ff0000;
+}
+
+/* Page text */
+body.hemorrhage-theme p {
+    color: #a82121;
+}
+
+/* Page text hover */
+/*
+body.hemorrhage-theme p:hover {
+    color: #ff3333;
+} 
+*/
+/* Navigation links | Sidebar */
+body.hemorrhage-theme .md-nav__link {
+    color: #c90000;
+    --md-default-bg-color: #00000000;
+}
+body.hemorrhage-theme .md-nav__link:hover {
+     color: #ff3333;
+}
+.md-nav__link--active {
+  color: #c90000;
+  font-weight: bold;
+}
+
+/* Code blocks, tables, etc. */
+body.hemorrhage-theme pre,
+body.hemorrhage-theme code {
+    background-color: #5500005d;
+    color: #c22a2a;
+}
+
+/* Admonitions */
+body.hemorrhage-theme .admonition {
+    background-color: #00000000;
+    color: #c22a2a;
+}
