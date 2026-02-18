@@ -1,6 +1,8 @@
 ---
 hide:
   - footer
+site_description: >- 
+  Locked page.
 ---
 
 # Page locked

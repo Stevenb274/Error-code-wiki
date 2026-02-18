@@ -1,9 +1,12 @@
 ---
 hide:
   - footer
+site_description: >-
+  Okay did you seriously paste a manual link to this??
+title: Fucking dumbass
 ---
 
- <!-- <meta name="page_locked" content="true"> Lock the page :3 -->
+<!-- <meta name="page_locked" content="true"> Lock the page :3 -->
 
 # **The basics**
 
@@ -25,4 +28,4 @@ Hostile entities are entities that pose a threat to the player. They can be foun
 Disasters are entities or events that are so powerful that they pose a threat to the player and the facility itself. The disasters often have their own "encounter floor" *(with [**Chronos**](Disasters/chronos.md) being an exception).* and the player receives a generous reward for beating such floors. The current Disasters are [**Burnout**](Disasters/burnout.md), [**Chronos**](Disasters/chronos.md) and [**Hemorrhage**](Disasters/hemorrhage.md).
 
 ### **Creations**
-If an Entity is classified as a "Creation", it was created in this very facility. Currently, all creations are hostile and will cause harm to the player if encountered and not avoided. Creation entities can have many appearances, an example is [**Greed**](Hostile/Creations/greed.md) who appears as a greenish glitch effect on seemingly normal items. Players can easily avoid taking damage from these entities if they know how the entity behaves. Examples for entities classified as "Creations" are [**Bazil**](Hostile/Creations/bazil.md), [**Soleil**](Hostile/Creations/soleil.md) or [**Bacterium**](Hostile/Creations/bacterium.md).
+If an Entity is classified as a "Creation", it was created in this very facility. Currently, all creations are hostile and will cause harm to the player if encountered and not avoided. Creation entities can have many appearances, an example is [**Greed**](Creations/greed.md) who appears as a greenish glitch effect on seemingly normal items. Players can easily avoid taking damage from these entities if they know how the entity behaves. Examples for entities classified as "Creations" are [**Bazil**](Creations/bazil.md), [**Soleil**](Creations/soleil.md) or [**Bacterium**](Creations/bacterium.md).

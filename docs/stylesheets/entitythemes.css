@@ -24,10 +24,11 @@ body.hemorrhage-theme p {
 }
 
 /* Page text hover */
+/*
 body.hemorrhage-theme p:hover {
     color: #ff3333;
 } 
-
+*/
 /* Navigation links | Sidebar */
 body.hemorrhage-theme .md-nav__link {
     color: #c90000;
