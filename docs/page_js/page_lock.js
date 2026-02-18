@@ -11,6 +11,6 @@ document$.subscribe(function () {
         document.body.innerHTML = "";
         document.body.appendChild(message);
 
-        setTimeout(() => window.location.href = "internal/page_locked",10);
+        setTimeout(() => window.location.href = "/internal/page_locked",10);
     }
 });
