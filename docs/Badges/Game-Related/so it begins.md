@@ -1,8 +1,6 @@
 ---
 hide:
   - footer
-extra:
-  special_theme: false
 status: WIP
 ---
 
