@@ -1,0 +1,12 @@
+---
+hide:
+  - footer
+extra:
+  special_theme: false
+status: WIP
+---
+
+!!! pagewip "WIP Page"
+    **This page is marked as WIP, meaning that changes may happen to this page every once in a while and that content may not be final.**
+
+yea i don't know what to put here srry roxy :z_brokenhearth:

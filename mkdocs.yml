@@ -30,7 +30,8 @@ theme:
 not_in_nav: | ## Pages that should be hidden
   page_locked.md
   Roxy.md
-
+  nightmail.md
+  nightmare.md
 extra_css:
   - stylesheets/extra.css
   - stylesheets/entitythemes.css
